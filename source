@@ -1,4 +1,4 @@
-([[
+local useless = ballfondlers([[
 	
    ▀██▀▀█▄                     ▀██▀  ▀█▀ ▀██▀ 
 	██   ██   ▄▄▄▄    ▄▄▄▄ ▄▄▄  ██    █   ██  
@@ -8,6 +8,12 @@
 					  ▄▄ █                    
 	Beta V8			   ▀▀      -Kai/S               
 ]])
+function ballfondlers(bestshow)
+	return bestshow .. " ballfondler"
+end
+useless = "1"
+useless = tonumber(useless)+34
+useless = useless+34 --troll
 --[[
 
 Original Rayfield Interface Suite
