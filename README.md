@@ -1,3 +1,5 @@
+[Link to docs](https://rayui.starcats.xyz)
+I'm skid 😧😲
 # RayUI Interface Suite
 This is the written documentation for RayUI Interface Suite
 
